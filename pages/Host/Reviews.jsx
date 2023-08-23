@@ -18,7 +18,7 @@ export default function Reviews() {
             id: "2",
         },
     ]
-    
+
     return (
         <section className="host-reviews">
             <div className="top-text">
